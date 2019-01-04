@@ -1,0 +1,32 @@
+{
+  "name": "s10",
+  "version": "1.0.0",
+  "description": "Generate and verify the check digit for the UPU S10 postal tracking codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcher-in-the-try/s10.git"
+  },
+  "keywords": [
+    "s10",
+    "tracking-number",
+    "checksum",
+    "check-digit",
+    "upu",
+    "post",
+    "postal-tracking",
+    "mail"
+  ],
+  "author": "Anton Ivanov <anton@ivanov.hk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/catcher-in-the-try/s10/issues"
+  },
+  "homepage": "https://github.com/catcher-in-the-try/s10#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
