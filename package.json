@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/catcher-in-the-try/s10#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^29.3.1"
   }
 }
